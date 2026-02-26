@@ -2,7 +2,7 @@
 
 ## 1. Contextualização
 
-Durante a aula do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **Unicesumar**, ministrada pelo professor Leonardo Rocha (inserir link oficial), foi realizada uma introdução prática aos conceitos de Framework, utilização do Bootstrap 5 e versionamento de código com Git.
+Durante a aula do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da **Unicesumar**, ministrada pelo professor [Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/), foi realizada uma introdução prática aos conceitos de Framework, utilização do Bootstrap 5 e versionamento de código com Git.
 
 ---
 
@@ -14,7 +14,7 @@ Foi apresentado o conceito de framework como uma estrutura de desenvolvimento qu
 
 ### 2.2 Bootstrap 5
 
-Foi realizada a exploração do framework front-end Bootstrap 5, com foco em:
+Foi realizada a exploração do framework front-end [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/), com foco em:
 
 - Estruturação de layout
 - Sistema de grid
@@ -61,3 +61,12 @@ A partir do template original, foram realizadas as seguintes modificações:
 - Aplicar o Bootstrap 5 na construção de interfaces responsivas
 - Manipular templates pré-existentes para personalização
 - Utilizar Git como ferramenta de versionamento e controle de alterações
+---
+
+## Autor
+
+Desenvolvido por [Emmanuel Lucas](https://www.linkedin.com/in/emmanuel-lucas-rossini-de-matos-638700352/)
+Curso de Análise e Desenvolvimento de Sistemas – Unicesumar  
+Ano: 2026
+
+
